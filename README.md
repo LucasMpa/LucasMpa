@@ -3,7 +3,7 @@
 # Hi there, I'm Lucas Matheus
 
 <p align="left" font-size="16px">
-I am a front-end engineer and fourth semester student of systems analysis and development. I am very curious, i love technology and learning new things.
+I am a front-end engineer and a fifth semester student of Systems Analysis and Development.
 </p>
 
 ## My skills as a developer
