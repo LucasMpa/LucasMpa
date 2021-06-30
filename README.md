@@ -44,4 +44,4 @@ I am a front-end engineer and am studying the fourth semester of systems analysi
 <img src="https://img.shields.io/badge/-lucas.mpap@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=lucas.mpap@gmail.com" /></a>
   
 <a href="https://www.linkedin.com/in/lucasmpa/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmpa/" /></a>
+<img src="https://img.shields.io/badge/-Lucas-Matheus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucasmpa/" /></a>
