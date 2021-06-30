@@ -36,7 +36,7 @@ I am a front-end engineer and a fifth semester student of Systems Analysis and D
 ### Connect with me:
 
 <p align="left">
-📫  Want to talk to me? Send me a message on one of these social networks below !
+📫  Want to talk to me? Send me a message on one of the links below!
 </p>
 
 <p align="left">
