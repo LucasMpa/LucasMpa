@@ -26,11 +26,21 @@ I am a front-end engineer and a fifth semester student of Systems Analysis and D
 
 <br/>
 
+
+
+### Cloud
+
+<img align="left" alt="Netlify" width="26px" src="https://api.iconify.design/logos-netlify.svg?height=16%27" />
+
+<br/>
+
 ### Database
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <br/>
+
+
 
 
 ### Connect with me:
