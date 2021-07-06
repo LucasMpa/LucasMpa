@@ -26,7 +26,7 @@ I am a front-end engineer and a fifth semester student of Systems Analysis and D
 
 
 <img align="left" alt="Node.js" width="26px" 
-src="https://spng.pngfind.com/pngs/s/62-627254_i-wanted-to-give-graphql-a-shot-for.png" />
+src="https://cdn.freelogovectors.net/wp-content/uploads/2021/01/graphql-logo-freelogovectors.net_.png" />
 
 <br/>
 
