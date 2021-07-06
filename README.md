@@ -25,8 +25,8 @@ I am a front-end engineer and a fifth semester student of Systems Analysis and D
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
 
-<img align="left" alt="Node.js" width="60px" 
-src="https://cdn.freelogovectors.net/wp-content/uploads/2021/01/graphql-logo-freelogovectors.net_.png" />
+<img align="left" alt="GraphQL" width="30px" 
+src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" />
 
 <br/>
 
