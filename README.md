@@ -3,7 +3,7 @@
 # Hi there, I'm Lucas Matheus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 <p align="left" font-size="16px">
-I am a front-end developer and student of Systems Analysis and Development.
+I am react and python developer for Objective.
 </p>
 
 ## My skills as a developer
