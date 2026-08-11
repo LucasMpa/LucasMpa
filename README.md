@@ -3,7 +3,7 @@
 # Hi there, I'm Lucas Matheus <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> 
 
 <p align="left" font-size="16px">
-I am react and python developer for Objective.
+Senior Software Engineer focused on frontend development, with experience building web and mobile applications using React, TypeScript and React Native.
 </p>
 
 ## My skills as a developer
