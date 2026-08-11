@@ -64,6 +64,15 @@ Currently, I'm expanding my backend skills with **Python, FastAPI and Node.js**,
 
 ## 🚀 Featured Projects
 
+
+### 🤖 [Atlas](https://github.com/LucasMpa/atlas)
+
+AI-powered knowledge base built with Python and FastAPI, currently evolving into a RAG-based system for document ingestion, semantic search and LLM-powered answers.
+
+**Python · FastAPI · RAG · LLMs · Embeddings · Vector Databases**
+
+---
+
 ### 🎮 [Spyfall](https://github.com/LucasMpa/Spyfall)
 
 A real-time multiplayer web application built to explore full-stack development and real-time communication.
