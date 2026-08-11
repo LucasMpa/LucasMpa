@@ -64,22 +64,21 @@ Currently, I'm expanding my backend skills with **Python, FastAPI and Node.js**,
 
 ## 🚀 Featured Projects
 
-
 ### 🤖 [Atlas](https://github.com/LucasMpa/atlas)
 
-AI-powered knowledge base built with Python and FastAPI, currently evolving into a RAG-based system for document ingestion, semantic search and LLM-powered answers.
+An **AI Engineering learning project** focused on building an AI-powered knowledge base and exploring modern AI application architecture.
 
-**Python · FastAPI · RAG · LLMs · Embeddings · Vector Databases**
+**Python · FastAPI · LLMs · RAG · Embeddings · Vector Databases**
+
+> An incremental project exploring how to design and build reliable AI-powered systems, from document ingestion and indexing to semantic retrieval and LLM-generated responses.
 
 ---
 
 ### 🎮 [Spyfall](https://github.com/LucasMpa/Spyfall)
 
-A real-time multiplayer web application built to explore full-stack development and real-time communication.
+A real-time multiplayer game built with React, TypeScript, Node.js and Socket.IO, exploring full-stack architecture, client/server responsibilities, shared state and real-time communication.
 
 **React · TypeScript · Node.js · Express · Socket.IO**
-
-> A game project that became an opportunity to explore client/server responsibilities, shared state and real-time events.
 
 ---
 
@@ -93,13 +92,11 @@ A backend API focused on software design and backend architecture.
 
 ---
 
-### 🤖 [Alfred Bot](https://github.com/LucasMpa/alfred-bot)
+### 🤵🏻‍♂️ [Alfred](https://github.com/LucasMpa/alfred-bot)
 
-A Python bot built to automate media search and download workflows.
+A full-stack local application with a React/TypeScript frontend and Python backend for downloading YouTube audio as MP3 and automatically enriching files with MusicBrainz metadata.
 
-**Python · Web Scraping · yt-dlp**
-
-> One of my projects exploring Python, automation and external integrations.
+**React · TypeScript · Python · Flask · Vite · FFmpeg · MusicBrainz**
 
 ---
 
@@ -127,6 +124,7 @@ AI Engineering
    │
    ├── LLMs
    ├── RAG
+   ├── Embeddings
    ├── AI Applications
    └── AI-powered Systems
 ```
