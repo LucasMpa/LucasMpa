@@ -9,7 +9,7 @@
   alt="Computer illustration"
 />
 
-### Senior Software Engineer
+### Software Engineer
 
 I'm a **Senior Software Engineer** with a strong focus on frontend development, mainly working with **React, TypeScript and React Native**.
 
